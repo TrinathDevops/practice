@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 my ne file line added
 
+=======
+hi b filr cereated
+>>>>>>> trinath
